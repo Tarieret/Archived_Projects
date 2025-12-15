@@ -1,2 +1,2 @@
 # Archived_Projects
-Older/exploratory data science and ML projects for reference.
+Archived academic and exploratory data science and machine learning projects.
