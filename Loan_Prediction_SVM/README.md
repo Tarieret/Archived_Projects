@@ -12,4 +12,4 @@ This project demonstrates a classical machine learning approach to financial ris
 - Machine Learning (SVM)  
 - Model evaluation (accuracy, confusion matrix)
 
-**Status:** Archived / exploratory project
+**Status:** Archived / academic project
