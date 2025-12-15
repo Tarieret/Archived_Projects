@@ -12,4 +12,4 @@ This project explores a classical statistical approach using Logistic Regression
 - Data analysis & visualization  
 - Feature engineering and interpretation
 
-**Status:** Archived / exploratory project
+**Status:** Archived / academic project
