@@ -12,4 +12,4 @@ This project involves database design, including normalization, data integrity c
 - Entity-Relationship Modeling  
 - Data management best practices
 
-**Status:** Archived / exploratory project
+**Status:** Archived / academic project
