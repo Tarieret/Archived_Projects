@@ -17,4 +17,14 @@ Model performance is assessed using standard classification metrics, including:
 - Recall  
 - F1-score  
 
+## Data
+The project used publicly available brain MRI image datasets sourced from Kaggle.
+
+The dataset consisted of labeled MRI images across the following categories:
+- 3,079 normal images
+- 281 meningioma tumor images
+- 5,908 pituitary tumor images
+
+The image data is not included in this repository due to size constraints.
+
 This repository is shared for academic reference and archival purposes. No claim of sole authorship is made.
