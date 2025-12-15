@@ -17,9 +17,9 @@ Image data is not included in this repository due to size constraints.
 This repository is shared for academic reference and archival purposes. No claim of sole authorship is made.
 
 **Key Skills / Tools:**
-Python
-Deep learning for image classification
-Medical image data processing
-Model evaluation (accuracy, precision, recall, F1-score)
+- Python
+- Deep learning for image classification
+- Medical image data processing
+- Model evaluation (accuracy, precision, recall, F1-score)
 
 **Status:** Archived / academic project
