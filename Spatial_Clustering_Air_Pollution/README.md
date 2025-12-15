@@ -12,4 +12,4 @@ This project uses clustering algorithms (K-means and hierarchical clustering) to
 - Data visualization  
 - Environmental data analysis
 
-**Status:** Archived / exploratory project
+**Status:** Archived / academic project
