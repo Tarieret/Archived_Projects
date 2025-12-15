@@ -2,31 +2,19 @@
 
 Group project completed as part of a Master’s-level course.
 
-## Overview
-This project demonstrates programmatic news data collection using the
-GNews API, with an emphasis on data ingestion, basic preprocessing, and
-structuring API responses for analysis.
+**Objective:** 
+Collect and structure news articles programmatically using a public news API.
 
-Implemented in Python using a Jupyter notebook and executed in Google Colab.
+**Description:**
+This project demonstrates API-based data ingestion using the GNews API, focusing on retrieving news articles, parsing JSON responses, and organizing the data into tabular form for downstream analysis.
+The project was implemented in Python using a Jupyter notebook and executed in Google Colab. API access is handled via personal keys managed through Google Colab Secrets; no credentials are included in this repository.
 
-## Data Source
-News articles are retrieved dynamically from the GNews API.
-No data is stored in this repository.
+This repository is shared for academic reference and archival purposes. No claim of sole authorship is made.
 
-## Implementation
-- Python, pandas
-- REST API interaction
-- JSON parsing and tabular data structuring
-- Google Colab execution
-
-## Setup
-This notebook uses API keys managed via Google Colab Secrets.
-
-To run:
-1. Open in Google Colab
-2. Add your own GNews API key
-3. Execute the notebook
-
-## Notes
-Shared for academic reference and archival purposes.
-No claim of sole authorship is made.
+**Key Skills / Tools:**
+- Python (pandas)
+- REST API integration
+- JSON parsing and data structuring
+- Google Colab
+  
+**Status:** Archived / academic project
